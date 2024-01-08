@@ -1,0 +1,38 @@
+#bannerImg{
+    height: 602px;
+    margin-bottom: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 586px) {
+
+
+
+
+#bannerImg{
+
+    padding-top: 20px;
+}
+
+
+#backImg{
+    padding-bottom: 200px;
+    height:auto ;
+}
+
+
+
+
+}
